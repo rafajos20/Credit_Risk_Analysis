@@ -1,4 +1,4 @@
-![](resources/VBA_Challenge_2018.png) 
+![](resourcesCR/CRA0.png) 
 
 # Credit_Risk_Analysis
 
