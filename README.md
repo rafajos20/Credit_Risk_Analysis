@@ -14,5 +14,12 @@ Analyze credit card risk by training six Machine Learning models and evaluating 
  Model Accuracy = 0.637
  
  ![](resourcesCR/CRA1.png) 
+ 
+## SMOTE Oversampling
+Model Accuracy = 0.630
+
+ ![](resourcesCR/CRA2.png) 
+ 
+ 
 
 
