@@ -30,6 +30,11 @@ Model Accuracy = 0.638
 
 ![](resourcesCR/CRA4.png) 
 
+## Balanced Random Forest Classifier
+Model Accuracy = 0.788
+
+![](resourcesCR/CRA5.png) 
+
  
  
 
