@@ -40,6 +40,9 @@ Model Accuracy = 0.925
 
 ![](resourcesCR/CRA6.png)
  
+# Summary
+
+With a 0.925 accuracy and 0.91 recall score, the Easy Ensemble AdaBoost Classifier produced the best results when predicting high risk credit applications.
  
 
 
