@@ -35,6 +35,10 @@ Model Accuracy = 0.788
 
 ![](resourcesCR/CRA5.png) 
 
+## Easy Ensemble AdaBoost Classifier
+Model Accuracy = 0.925
+
+![](resourcesCR/CRA6.png)
  
  
 
