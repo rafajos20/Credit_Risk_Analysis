@@ -25,6 +25,12 @@ Model Accuracy = 0.516
 
  ![](resourcesCR/CRA3.png) 
  
+## SMOTEEN
+Model Accuracy = 0.638
+
+![](resourcesCR/CRA4.png) 
+
+ 
  
 
 
